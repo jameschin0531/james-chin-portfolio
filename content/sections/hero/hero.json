@@ -1,0 +1,22 @@
+{
+  "intro": "Hey, I am James Chin",
+  "heroPhoto": {
+    "src": "../../images/lego-dummy.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "Full stack Engineer | WordPress Developer",
+  "subtitle": {
+    "prefix": "Passion in provide digital solutions ",
+    "highlight": "for small business",
+    "suffix": "."
+  },
+  "description": "I am a Full Stack Engineer that have 3 years experience since 2019, at passed I involve 7 different project and playing different role at the team. My current tech stack is using Laravel, VueJs and ReactJs for web development, React Native for mobile development.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": false
+  }
+}

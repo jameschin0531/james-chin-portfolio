@@ -1,0 +1,66 @@
+{
+  "interests": [
+    {
+      "label": "Front-End (VueJs & React)",
+      "image": {
+        "src": "../../images/gem-stone.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Backend (Laravel)",
+      "image": {
+        "src": "../../images/gem-stone.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Apps (React Native)",
+      "image": {
+        "src": "../../images/gem-stone.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Wordpress",
+      "image": {
+        "src": "../../images/gem-stone.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Landing Page",
+      "image": {
+        "src": "../../images/gem-stone.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "SEO Optimization",
+      "image": {
+        "src": "../../images/gem-stone.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Web Application",
+      "image": {
+        "src": "../../images/gem-stone.png",
+        "alt": ""
+      }
+    },
+   
+    {
+      "label": "Web Hositng",
+      "image": {
+        "src": "../../images/gem-stone.png",
+        "alt": ""
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 5
+  }
+}

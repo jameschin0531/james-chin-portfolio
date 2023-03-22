@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "WEB",
+      "title": "Wordpress Development",
+      "description": "I can help you create a website that includes various sections, such as information about your company, your products and services, testimonials from satisfied customers, and a way for interested parties to contact you. All we need from you are your company logo, some product photos, and brief descriptions of what you offer.",
+      "tags": ["Include domain and hosting", "SEO Optimization", "Mobile responsive", "Load in 3 second"],
+      "image": {
+        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "alt": "Quick Setup",
+        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+      },
+      "links": []
+    },
+    {
+      "visible": true,
+      "category": "Custom",
+      "title": "Custom Development",
+      "description": "Custom Web development or Apps development is available, we can discuss the details and see how I can help in your project.",
+      "tags": ["Custom Service", "Open to discuss", "Website or Mobile Application"],
+      "image": {
+        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "alt": "Extendable Layout"
+      },
+      "links": []
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "Contact Me",
+    "url": "mailto:jameschin0531@gmail.com"
+  }
+}
